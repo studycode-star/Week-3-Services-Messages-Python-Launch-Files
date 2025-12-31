@@ -1,0 +1,2 @@
+[console_scripts]
+my_talker = robocon_basics.hello_world:main

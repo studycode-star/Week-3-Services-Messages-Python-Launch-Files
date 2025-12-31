@@ -1,0 +1,9 @@
+source;share/robocon_basics/hook/pythonpath.ps1
+source;share/robocon_basics/hook/pythonpath.dsv
+source;share/robocon_basics/hook/pythonpath.sh
+source;share/robocon_basics/hook/ament_prefix_path.ps1
+source;share/robocon_basics/hook/ament_prefix_path.dsv
+source;share/robocon_basics/hook/ament_prefix_path.sh
+source;../../build/robocon_basics/share/robocon_basics/hook/pythonpath_develop.ps1
+source;../../build/robocon_basics/share/robocon_basics/hook/pythonpath_develop.dsv
+source;../../build/robocon_basics/share/robocon_basics/hook/pythonpath_develop.sh

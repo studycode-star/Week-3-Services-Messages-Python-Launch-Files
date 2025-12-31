@@ -1,0 +1,17 @@
+[0.629s] Invoking command in '/home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics': PYTHONPATH=/home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khoi/robocon_ws/src/robocon_basics/install/robocon_basics/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics/build --no-deps symlink_data
+[0.872s] running develop
+[1.017s] running egg_info
+[1.033s] writing robocon_basics.egg-info/PKG-INFO
+[1.033s] writing dependency_links to robocon_basics.egg-info/dependency_links.txt
+[1.033s] writing entry points to robocon_basics.egg-info/entry_points.txt
+[1.033s] writing requirements to robocon_basics.egg-info/requires.txt
+[1.034s] writing top-level names to robocon_basics.egg-info/top_level.txt
+[1.063s] reading manifest file 'robocon_basics.egg-info/SOURCES.txt'
+[1.063s] writing manifest file 'robocon_basics.egg-info/SOURCES.txt'
+[1.080s] running build_ext
+[1.080s] Creating /home/khoi/robocon_ws/src/robocon_basics/install/robocon_basics/lib/python3.12/site-packages/robocon-basics.egg-link (link to .)
+[1.080s] Installing my_talker script to /home/khoi/robocon_ws/src/robocon_basics/install/robocon_basics/lib/robocon_basics
+[1.080s] 
+[1.081s] Installed /home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics
+[1.081s] running symlink_data
+[1.102s] Invoked command in '/home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics' returned '0': PYTHONPATH=/home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/khoi/robocon_ws/src/robocon_basics/install/robocon_basics/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/khoi/robocon_ws/src/robocon_basics/build/robocon_basics/build --no-deps symlink_data
